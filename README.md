@@ -1,0 +1,4 @@
+Perceptrix
+==========
+
+Hosted on Google App Engine, Perceptrix is a web based game in which user has to submit his perception of the images given as questions in due time. Security is the feature which has been laid utmost emphasis – No caching of game pages at client end, OAuth2.0 Protocol, Use of Filters, etc. Another great feature of Perceptrix is that it does not need user to sign up with a new username-password combo, instead it uses Google Java and JavaScript APIs to use Google credentials without saving user’s password. The entire application is in Struts framework so MVC is at its core. For some admin operations a simple yet powerful CMS is also provided. The hosting cost of application is nil except the database server’s minimal cost. 175 users played Perceptrix in a 72-hours event.
